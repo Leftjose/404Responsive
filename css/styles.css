@@ -91,12 +91,15 @@ img {
 }
 
 .nav__logo {
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .nav__toggle {
-  font-size: 1.25rem;
+  font-size: 2.3rem;
   cursor: pointer;
+  
+  
+  
 }
 
 @media screen and (max-width: 767px) {
