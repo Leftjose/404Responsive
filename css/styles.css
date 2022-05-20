@@ -7,8 +7,8 @@
 
   /* COLORS */
   /* Color mode HSL(hue, saturation, lightness) */
-  --first-color: hsl(38, 69%, 59%);
-  --text-color: hsl(38, 8%, 8%);
+  --first-color: #b9b5ac;
+  --text-color: rgb(0, 0, 0);
 
   /* Font and Typography */
   --body-font: "Space Grotesk", sans-serif;
@@ -299,8 +299,7 @@ img {
 /* For 4k resolutions (3840 x 2160, 4096 x 2160) */
 
 @media screen and (min-width: 3840px) {
-  body{
+  body {
     zoom: 3.1;
   }
-  
 }
